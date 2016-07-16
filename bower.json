@@ -1,0 +1,28 @@
+{
+  "name": "dubmonk",
+  "authors": [
+    "Lintu Varughese <lintuvarghese7@gmail.com>"
+  ],
+  "description": "dubmonk",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "dubmonk"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "latest",
+    "angular-animate": "latest",
+    "bootstrap": "latest",
+    "seiyria-bootstrap-slider": "^7.1.1"
+  }
+}
